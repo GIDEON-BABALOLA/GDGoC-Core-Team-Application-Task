@@ -11,7 +11,7 @@
 7. Go To The Root Folder and run the command npm start to start the application
 8. Also you can run npm run dev to ensure that on every change of the codebase the app gets restarted
 # Here I Am Obeying The Rules Of CRUD
-- BASE_URL = http://localhost:3000
+- BASE_URL = https://gdgoc-core-team-application-task.onrender.com
 # Admin Functionality
 
 # CREATE
@@ -151,4 +151,4 @@
 - URL: /api/designer/view-designer-projects
 - Method: GET
 - No Body Parameters, Just Login With A Developer Account.
-This Project Has Been Deployed on Render, and the database has been deployed on mongoDB cloud
+This Project Has Been Deployed on Render with the live link https://gdgoc-core-team-application-task.onrender.com, and the database has been deployed on mongoDB cloud
