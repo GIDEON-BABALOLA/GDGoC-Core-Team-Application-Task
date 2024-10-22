@@ -1,0 +1,27 @@
+20241022	12:13:49	0a84aa62-07ad-47d6-9ff3-a4f7a71bc4a5	userError: Pls Enter The Email Of The Project Member, And The Id Of The Project You Want To Asssign The Member To
+20241022	12:15:02	1790776e-299f-428b-bc3c-d25ab76c4722	userError: Pls Enter The Email Of The Project Member, And The Role Of The Member
+20241022	12:16:07	0adfa0bd-28e0-4d2b-99fc-6b29012cc3e1	userError: Pls Enter The Role Of The Member In This Project
+20241022	12:18:21	f63a6967-f438-4548-bf46-f18e8adeae74	userError: The Account Of This Developer Does Not Exist
+20241022	12:18:22	a2a2283c-3d93-41a8-b214-991cf0c5efd7	userError: The Account Of This Developer Does Not Exist
+20241022	12:18:37	8ee34d7c-321f-428c-8ddd-863929aba081	TypeError: Cannot read properties of undefined (reading 'some')
+20241022	12:18:53	9c84f73b-edfd-4b96-a459-fbd5a1f4d811	TypeError: Cannot read properties of undefined (reading 'some')
+20241022	12:21:18	e91ee9aa-3044-479a-a9e8-7100702f2153	userError: Pls Enter A Correct Role
+20241022	12:21:25	b1886d52-0639-4431-969f-cfc73221509d	userError: Pls Enter A Correct Role
+20241022	12:21:30	cd30752d-8af3-4135-8ad3-959064018a0a	userError: Pls Enter A Correct Role
+20241022	12:21:44	60e6c5bb-21ac-4bb7-93d2-3bcac225c737	TypeError: Cannot read properties of undefined (reading 'some')
+20241022	12:22:56	dc11711f-5c2f-4756-bf2b-30fb091c40bc	TypeError: Cannot read properties of undefined (reading 'some')
+20241022	12:30:56	827fac96-8081-416f-b1d8-2399a1f8d0c4	userError: This Project Does Not Exist
+20241022	12:31:43	a2350bfe-cfc9-4e40-8194-24ebc90618cf	userError: This Project Does Not Exist
+20241022	12:36:16	ac83530b-2028-426f-b812-79058f52448b	userError: Pls Enter The Email Of The Project Member, And The Role Of The Member
+20241022	12:47:14	45808b92-38b3-4a34-9115-fe568aef2b24	userError: The Account Of This Designer Does Not Exist
+20241022	12:47:27	0ce45512-9c4e-427f-9822-b0d91b69774a	userError: The Account Of This Designer Does Not Exist
+20241022	21:56:07	7cab9f7d-2076-440d-927b-f1d4fbaed565	userError: The Account Of This Designer Does Not Exist
+20241022	21:58:24	d5efba75-a29c-4c77-bb49-3be57759ce86	userError: The Account Of This Designer Does Not Exist
+20241022	22:00:38	1c9fcc9d-273e-480c-8a9a-32da626ff6ee	userError: Pls Enter A Correct Role
+20241022	22:00:43	e5165d62-4094-4d9a-9a3d-5a14730e04e9	userError: The Account Of This Developer Does Not Exist
+20241022	22:15:16	ed00f4cd-986d-441c-af22-f1082a615634	userError: The Account Of This Developer Does Not Exist
+20241022	22:22:10	e5564b00-ac8a-46ee-92e1-45c2d2e45730	userError: The Account Of This Designer Does Not Exist
+20241022	22:22:25	3cd79132-2fe9-40f0-a556-b06417067f87	userError: The Account Of This Designer Does Not Exist
+20241022	22:48:26	6da41e59-1fc1-4bcf-8227-f45ce116145c	userError: The Account Of This Designer Does Not Exist
+20241022	22:50:12	e854d17a-fe21-4aa1-8a80-19fc3cb308bc	userError: This Project Does Not Exist
+20241022	22:50:13	935bf7ee-92bc-47fd-9283-7670b6796224	userError: This Project Does Not Exist

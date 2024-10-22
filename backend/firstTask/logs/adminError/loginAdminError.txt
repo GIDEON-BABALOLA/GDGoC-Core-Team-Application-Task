@@ -1,0 +1,8 @@
+20241021	21:38:15	24a8b62c-5423-476d-afb2-233c1c75061f	validatorError: Password must contain minimum of 8 character, a lowercase and uppercase alphabet, no spaces and a minimum of 2 digits
+20241021	21:38:16	f345db65-5310-432a-9b71-12e483ae199b	validatorError: Password must contain minimum of 8 character, a lowercase and uppercase alphabet, no spaces and a minimum of 2 digits
+20241021	21:38:20	aa3efde7-5a69-46aa-8494-331915c7c356	userError: Your Credentials Are Invalid
+20241021	21:38:24	14cbfc50-461a-4b88-8b7a-bfe9dea65685	userError: Your Credentials Are Invalid
+20241021	21:38:25	a56bdbc7-f47f-45eb-a7e9-4396bd3d4ac4	userError: Your Credentials Are Invalid
+20241021	21:38:29	65b5ef4c-941a-44d8-89c5-dd1e8e858d5e	ReferenceError: generateRefreshToken is not defined
+20241021	21:38:51	e4e8db1b-7a2d-40bd-8e97-21c0ca277d5f	ReferenceError: generateRefreshToken is not defined
+20241021	21:43:19	43e18615-fb7d-4334-aa78-8ff7e4efa796	Error: secretOrPrivateKey must have a value

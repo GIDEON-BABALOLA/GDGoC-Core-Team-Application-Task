@@ -1,0 +1,9 @@
+20241021	21:32:43	8628f8c6-3697-4dba-ba41-125442a4e28f	userError: Please Fill In All The Fields Needed For Registration
+20241021	21:35:32	ebdc4894-c59b-4565-9913-c1da0151267c	validatorError: Password must contain minimum of 8 character, a lowercase and uppercase alphabet, no spaces and a minimum of 2 digits
+20241021	21:35:46	192bc52b-d6d7-4e19-8878-d55ed76efbf8	validatorError: Password must contain minimum of 8 character, a lowercase and uppercase alphabet, no spaces and a minimum of 2 digits
+20241021	21:35:52	f26dcfd9-0611-475f-ad8e-ac551ccf8d18	ValidationError: Admin validation failed: role: `admin` is not a valid enum value for path `role`.
+20241021	21:36:13	e28b3ec5-c9db-4bc2-8e2b-fb6ab26e45de	ValidationError: Admin validation failed: role: `admin` is not a valid enum value for path `role`.
+20241021	21:37:34	f56dd146-3262-4c95-b83d-988e242e386a	userError: Your Account Already Exists
+20241021	21:37:36	5c956fb5-9059-4617-878b-44c15fab2311	userError: Your Account Already Exists
+20241021	21:37:36	cbf025e2-8187-42df-b255-59c58a192680	userError: Your Account Already Exists
+20241021	21:37:38	fbe81492-7910-4866-a4bc-03ede9f4ebc8	userError: Your Account Already Exists

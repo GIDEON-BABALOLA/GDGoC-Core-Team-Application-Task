@@ -1,0 +1,10 @@
+20241021	22:00:44	1e06d141-9e6e-43b2-bd96-202fbe0a7112	userError: Please Fill In All The Fields Needed For Registration
+20241021	22:00:45	f4082ba3-00b3-46c7-b06f-0f61749ec44c	userError: Please Fill In All The Fields Needed For Registration
+20241021	22:01:18	9d9859cb-a8bb-46ff-af8e-3863767e04aa	userError: Your Account Already Exists
+20241021	22:01:19	8b1e22bc-7b1b-4634-9e76-948e2e254d29	userError: Your Account Already Exists
+20241021	22:01:20	7788bdba-efcc-46ee-841d-2d4cca220b49	userError: Your Account Already Exists
+20241022	12:41:39	b5cee473-1969-4e10-bbda-dced157bb605	userError: Your Account Already Exists
+20241022	21:24:37	0ae4f29e-0d76-4405-af13-d46bec320dbf	userError: Your Account Already Exists
+20241022	21:24:47	52feaf71-0391-4174-8ee3-b537eda39cc3	userError: Your Account Already Exists
+20241022	21:24:49	5facaaed-5e89-41b5-bab5-731837d05e5e	userError: Your Account Already Exists
+20241022	21:40:56	bbb74401-ce7f-4470-9093-9f4f69c6ca1f	userError: Your Account Already Exists

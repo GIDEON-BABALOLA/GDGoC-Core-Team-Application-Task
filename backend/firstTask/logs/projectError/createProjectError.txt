@@ -1,0 +1,38 @@
+20241022	06:10:41	0d0d9f09-691b-4f50-915c-65a57b00bdf7	userError: Pls Enter The Full Details Of The Project To Be Created
+20241022	07:53:50	98585e21-f3fb-4b0a-a8a8-9b7043a81c39	userError: This Project Already Exists
+20241022	07:54:14	44c5a5e9-ff93-43a3-b142-5f52b404a9de	userError: This Project Already Exists
+20241022	07:54:36	3f89348c-c154-413c-8741-9f6d326a9fa3	userError: This Project Already Exists
+20241022	07:55:24	9a7301b3-91bf-44b6-ab7d-77cd073ab0c5	ReferenceError: Admin is not defined
+20241022	07:55:47	27c3ccc7-ce70-4967-b2ed-77809faf6743	ReferenceError: Admin is not defined
+20241022	10:25:44	4f420664-c918-4055-83b0-0d5401b946cc	ReferenceError: deadline is not defined
+20241022	10:26:25	9d5594a9-5e21-4c84-8460-6f348d62fa7a	userError: Pls Enter The Full Details Of The Project To Be Created
+20241022	10:26:41	6e3be3c9-681e-48f1-a951-1ee8918d4086	ValidationError: Admin validation failed: password: Path `password` is required., email: Path `email` is required., name: Path `name` is required.
+20241022	10:28:10	ab6dd345-e521-4003-828f-d9fd1366a399	userError: This Project Already Exists
+20241022	10:28:12	9799a3e5-4781-4eec-a4b3-0fa054c3d53a	userError: This Project Already Exists
+20241022	10:28:13	277deb39-c339-4833-8565-bfe27ed3b69c	userError: This Project Already Exists
+20241022	10:29:44	e52ec2a1-dfa7-4329-8fc1-f27ef9b1d3f5	userError: This Project Already Exists
+20241022	10:29:49	c094acc1-356c-44de-9ff9-8362a4b118b9	ValidationError: Project validation failed: deadline: Path `deadline` is required.
+20241022	10:30:41	d1d44df4-f182-4555-a464-822eeb48185d	userError: This Project Already Exists
+20241022	10:38:18	821af819-7942-46e4-8a60-d68bf9ef820a	userError: This Project Already Exists
+20241022	10:41:46	d76c6bfe-54f5-4ef4-9f17-824b550d8726	userError: This Project Already Exists
+20241022	10:41:54	c60ddbb0-1bc1-4514-8987-697caed50175	ValidationError: Project validation failed: deadline: Cast to date failed for value "1,733,996,514,694" (type string) at path "deadline"
+20241022	10:43:15	3c1de9a2-5ea6-4023-98e7-a501f64d4ed8	userError: This Project Already Exists
+20241022	10:44:03	65db86cc-6534-403e-911d-039b8b0d26c1	userError: This Project Already Exists
+20241022	10:44:20	353b5cd3-e8b6-44a9-ba83-4faef5343f6e	userError: This Project Already Exists
+20241022	10:44:41	f076e077-060d-4d61-a0ab-5ddbf469ae52	userError: This Project Already Exists
+20241022	10:45:06	c3d857cf-a431-4e66-a7ff-68a40c8005e8	userError: This Project Already Exists
+20241022	10:45:46	fb4122dd-b4a6-4d14-8288-86c069f9458b	TypeError: ourdate.setUTCMonth is not a function
+20241022	10:46:44	87eeb5c4-3fbc-4ffa-b96c-2dd84db695d9	userError: This Project Already Exists
+20241022	10:56:34	97b50de0-53c1-47f8-8db2-020dc2fe472d	userError: Pls Enter The Full Details Of The Project To Be Created
+20241022	10:57:12	46364e8a-cae3-46b5-b382-2c04b6fff3d0	userError: Pls Enter The Full Details Of The Project To Be Created
+20241022	10:57:26	9af55d60-5b7c-4ea0-aa63-ddbcfc39188a	userError: Pls Enter The Full Details Of The Project To Be Created
+20241022	11:15:49	c9d1ee23-c5f4-4431-b9fb-b5ef0a96d476	TypeError: ourdate.setFullYear is not a function
+20241022	11:16:20	e5f73c77-aab8-4d68-8b8f-f8c777211bf2	TypeError: ourdate.setFullYear is not a function
+20241022	11:33:13	edf206d9-92ff-4803-b4ce-a210bea0a847	userError: This Project Already Exists
+20241022	11:35:25	346c21f7-5b00-45ec-a8b7-cb704f153fa2	userError: This Project Already Exists
+20241022	11:42:44	8ab2f489-2a3d-4140-9029-120f942d7ce9	userError: This Project Already Exists
+20241022	11:44:22	6fba998a-a7e3-4744-8cdc-2d75228ce8ac	userError: This Project Already Exists
+20241022	11:45:38	110f81bf-ccc5-4c63-89d8-044d312cfcc2	userError: This Project Already Exists
+20241022	11:47:22	f902a3aa-a456-420d-96c8-cb9f2eed20d5	userError: This Project Already Exists
+20241022	21:51:32	b69527de-2a99-4908-ba98-0b5bb4f3fdf3	userError: This Project Already Exists
+20241022	22:14:30	4df74a36-ee0d-472f-b09a-f5d6551723b3	userError: This Project Already Exists

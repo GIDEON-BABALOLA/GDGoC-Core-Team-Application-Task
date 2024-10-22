@@ -1,0 +1,18 @@
+20241022	12:46:27	86ae59ca-36da-4f27-a56d-aeca8dfd376c	userError: Pls Enter The Role Of The Members You Are Looking For
+20241022	14:12:37	6a08cec3-e7cb-4f5f-8274-54fa82de1ec3	userError: Pls Enter The Role Of The Members You Are Looking For
+20241022	14:14:09	5dbf465f-c9fe-440e-8ca4-c91a9dfc3117	TypeError: project.toObject is not a function
+20241022	14:14:11	9913b3ed-07cd-4b00-8bc5-7c30cce5ca22	TypeError: project.toObject is not a function
+20241022	14:14:25	df5d3b5f-a3f4-41bc-a644-1b7a42fba96d	TypeError: project.toObject is not a function
+20241022	14:28:31	1477cd6c-a30c-4a97-a181-4d33fa4373c4	userError: Pls Enter A Correct Role
+20241022	14:31:37	c2ec021e-3956-4134-bead-5d937d72d15d	userError: Pls Enter A Correct Role
+20241022	14:31:46	e1e2cded-2141-4780-ad2a-c9b109d8467e	userError: Pls Enter A Correct Role
+20241022	14:32:01	ec301e97-ed28-4d76-ba4a-fbe29cb75ced	TypeError: project.toObject(...)[role].populate is not a function
+20241022	14:33:54	b66df815-c3f1-4e45-9a5c-f7d867456abd	TypeError: project.toObject(...)[role].populate is not a function
+20241022	14:35:47	a6bbd4e7-83e2-4d7b-8c1d-7690dbd7cfca	StrictPopulateError: Cannot populate path `wishlist` because it is not in your schema. Set the `strictPopulate` option to false to override.
+20241022	14:35:48	0282449c-3c7c-4270-becc-00a0e4d2871e	StrictPopulateError: Cannot populate path `wishlist` because it is not in your schema. Set the `strictPopulate` option to false to override.
+20241022	14:36:04	2f322346-c30f-40b2-bc76-3e1da595d82d	StrictPopulateError: Cannot populate path `wishlist` because it is not in your schema. Set the `strictPopulate` option to false to override.
+20241022	14:50:49	c97fcda8-ef75-4453-b2cb-0e4e98ec5d19	StrictPopulateError: Cannot populate path `Designer` because it is not in your schema. Set the `strictPopulate` option to false to override.
+20241022	15:12:42	aefb118c-48b9-42b9-a9d1-e8675030c08b	TypeError: Project.findById(...).populate(...).execPopulate is not a function
+20241022	18:36:28	64ada4c5-925f-4697-b9ec-d52734d0fc56	StrictPopulateError: Cannot populate path `developerId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+20241022	19:42:04	20f5e105-0dc6-43ec-a576-3039c6cf9cfd	ReferenceError: foundProject is not defined
+20241022	22:27:22	0807538f-aef1-4e89-8d86-b68c055c6ed9	TypeError: foundProject is not iterable

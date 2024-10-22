@@ -4,7 +4,9 @@
   "description": "Designing And  Implementing A Role-Based Authentication System with JWT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js",
+    "dev" : "nodemon server.js"
   },
   "author": "Babalola Gideon Folagbade",
   "license": "ISC",
