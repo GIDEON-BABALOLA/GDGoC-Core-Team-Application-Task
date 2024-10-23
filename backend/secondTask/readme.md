@@ -8,7 +8,7 @@
 7. Go To The Root Folder and run the command npm start to start the application
 8. Also you can run npm run dev to ensure that on every change of the codebase the app gets restarted
 # Here I Am Obeying The Rules Of CRUD
-- BASE_URL = https://gdgoc-core-team-application-task.onrender.com
+- BASE_URL = https://gdgoc-core-team-application-task-2.onrender.com
 
 # Here We Have A Products Database
 # Obeying The Rules Of CRUD
