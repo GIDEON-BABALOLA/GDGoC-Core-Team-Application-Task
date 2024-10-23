@@ -1,0 +1,2 @@
+20241023	01:03:48	fa2f11c8-a14f-4114-8876-ac8ba0629fdc	ValidationError:Product validation failed: color: Path `color` is required., quantity: Path `quantity` is required., brand: Path `brand` is required., category: Path `category` is required., price: Path `price` is required., description: Path `description` is required., slug: Path `slug` is required., title: Path `title` is required.
+20241023	01:11:18	01aa71c5-0791-4b8b-9b75-a2ebe0feb31d	MongoServerError:E11000 duplicate key error collection: secondTaskDB.products index: slug_1 dup key: { slug: "macbook-pro" }
